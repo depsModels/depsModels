@@ -1,16 +1,14 @@
-## Hi there 👋
+# DEPS - Design, Efetividade, Produtividade, Simplicidade 🚀
 
-<!--
-**depsModels/depsModels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DEPS** é um grupo dedicado a transformar ideias em soluções práticas e eficientes. Nosso objetivo é simplificar processos através de tecnologia, design e inovação, proporcionando uma experiência única e impactante para nossos clientes.
 
-Here are some ideas to get you started:
+## 🌐 Contato e Redes Sociais
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Site:** [depsmodels.com](https://depsmodels.com)
+- **Instagram:** [instagram.com/depsmodels](https://instagram.com/depsmodels)
+- **E-mail:** [contato@depsmodels.com](mailto:contato@depsmodels.com)
+- **WhatsApp:** [+55 51 99533-6519](https://wa.me/5551995336519)
+
+---
+
+Entre em contato conosco para transformar suas ideias em realidade! 💡
